@@ -1,4 +1,4 @@
-# system call_stat
+# state system call 
 
 struct stat
 {
