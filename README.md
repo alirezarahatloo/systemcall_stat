@@ -17,4 +17,7 @@ struct stat
   blkcnt_t       st_blocks;
 };
 
+![image](https://user-images.githubusercontent.com/7072483/206114141-06565242-ad8d-4c66-bd5f-8ee66a6a2e9f.png)
+
+
 int stat(const char *path, struct stat *buf)
